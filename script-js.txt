@@ -1,8 +1,8 @@
 const facts = [
-  "I love drawing and creating digital art!",
-  "My favorite sport is basketball.",
-  "I enjoy coding small games.",
-  "I like to bake cupcakes on weekends."
+  "i really like making stories, play video games and training.",
+  "My favorite sport is badtminton or martial arts.",
+  "I enjoy playing games on weekends.",
+  "I like train or make stories on weekends."
 ];
 
 const factParagraph = document.getElementById("fact");
